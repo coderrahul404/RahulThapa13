@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahulThapa
+- 👋 Hi, I’m @Coder.rahul
 - 👀 I’m interested in app web developing
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on ...
